@@ -1,0 +1,23 @@
+.nike-card{
+    border: 0;
+}
+.last-card{
+    border: 0;
+    border-radius: 10px;
+    background-color: white;
+}
+b{
+    color:purple;
+}
+.color-head{
+    color: salmon;
+}
+.last-card{
+    border: 0;
+    border-radius: 5px;
+    background-color:pink;
+}
+.last-card-img{
+    width: 120px;
+    padding: 5%;
+}
